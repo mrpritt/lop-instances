@@ -4,5 +4,5 @@ Given a matrix $M=(m_{ij})\in\mathbb{Z}^{n\times n}$ the linear ordering problem
 
 This repository collects known instances from the literature, since previous repositories (e.g. [LOLIB](http://comopt.ifi.uni-heidelberg.de/software/LOLIB) and [OPTISOM](https://grafo.etsii.urjc.es/optsicom) seem to be defunct.
 
-All files are simple text files, where the first row contains the size of the matrix $n$, and the following $n$ lines correspond to the lines of the matrix (i.e. each contains n coefficients).
+All files are simple text files, where the first row contains the size of the matrix $n$, followed by the dense matrix in $n$ lines of $n$ coeffients each.
 
